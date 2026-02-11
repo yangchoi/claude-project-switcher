@@ -1,0 +1,10 @@
+{
+  "name": "project-switcher",
+  "version": "1.0.0",
+  "description": "Quick switch between projects with context loading",
+  "author": "yangchoi",
+  "repository": "https://github.com/yangchoi/claude-project-switcher",
+  "commands": [
+    "commands/switch.md"
+  ]
+}
